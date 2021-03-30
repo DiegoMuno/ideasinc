@@ -1,0 +1,54 @@
+#galeriapersonaliza .col-lg-6 {
+    margin: 0% !important;
+    padding: 10px;
+}
+
+#galeriapersonaliza img {
+    width: 100%;
+    height: 250px;
+}
+
+#galeriapersonaliza img:hover {
+    border: 5px solid #f7f7f7;
+}
+
+#galeriapersonaliza {
+    border: sandybrown solid;
+}
+
+#galeriacolgante .col-lg-6 {
+    margin: 0% !important;
+    padding: 10px;
+} 
+
+#galeriacolgante img {
+    width: 100%;
+    height: 300px;
+}
+
+#galeriacolgante img:hover {
+    border: 5px solid #f7f7f7;
+}
+
+#galeriacolgante {
+    border: sandybrown solid;
+}
+
+#galeriautensilios .col-lg-6 {
+    margin: 0% !important;
+    padding: 10px;
+} 
+
+#galeriautensilios img {
+    width: 100%;
+    height: 300px;
+}
+
+#galeriautensilios img:hover {
+    border: 5px solid #f7f7f7;
+}
+
+#galeriautensilios {
+    border: sandybrown solid;
+}
+
